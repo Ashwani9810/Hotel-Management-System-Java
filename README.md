@@ -15,4 +15,3 @@ Admin can add/delete dishes or rooms to the database.
   3. Import the project in Eclipse IDE.
   4. Right-click on the project -> Build path -> Configure Build path. Under Libraries tab, click Add External JARs  and import all the          JARs present in the External_JARs folder.
   5. Run the project. 
-
